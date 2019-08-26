@@ -25,5 +25,5 @@ The goal of this repo would be to serve as a cookbook for other developers to ge
 
 #### Beginner Concepts
 
-A simple example Use-Case to "Add a DIV to HTML"
+A simple example Use-Case to "Add a DIV to HTML" while keeping the functions pure.
 - [A small example of Currying](https://stackblitz.com/edit/functional-programming-1)
