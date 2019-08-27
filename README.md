@@ -27,3 +27,4 @@ The goal of this repo would be to serve as a cookbook for other developers to ge
 
 A simple example Use-Case to "Add a DIV to HTML" while keeping the functions pure.
 - [A small example of Currying](https://stackblitz.com/edit/functional-programming-1)
+- [FrontEndMaster FP Course Notes]()
