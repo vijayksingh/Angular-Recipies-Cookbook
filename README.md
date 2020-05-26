@@ -4,6 +4,14 @@ The goal of this repo would be to serve as a cookbook for other developers to ge
 
 ### Angular Recipes
 
+#### Change Detection
+> This is an Advance Topic, preffered to pick it up only once you have about some experience in writing apps in Angular
+- [ ] [How change detection works from Inside Out](https://youtu.be/DsBy9O0c6eo)
+
+#### Dependency Injection
+
+####
+
 
 ### RxJS Recipes
 
@@ -11,6 +19,7 @@ The goal of this repo would be to serve as a cookbook for other developers to ge
 > We will start from the basics, how you can create an observable from a DOM Event
 - [ ] [Learn Creating Observables from DOM Event](https://stackblitz.com/edit/rxjs-beginner-concepts)
 - [ ] [Learn Basics of Combining Operators](https://stackblitz.com/edit/rxjs-combination-operators)
+- [ ] [Video: What is the difference between Observable vs Promise](https://youtu.be/9A-vM95I3UU)
 
 #### Medium Concepts
 
